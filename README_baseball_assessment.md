@@ -1,4 +1,4 @@
-Philidelphia Phillies Assessment 
+Assessment 
 
 I was tasked with developing a method to predcit players full season On Base Percentage(OBP) with only March and Aprils 26 statistics .
 
